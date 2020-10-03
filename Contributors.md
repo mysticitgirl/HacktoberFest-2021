@@ -118,4 +118,7 @@ Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
 
+Name: [Kelly Howell](https://github.com/mysticitgirl) <br/>
+Place: Perth <br/>
+About: Lifelong Student <br/>
 
